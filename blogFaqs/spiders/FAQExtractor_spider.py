@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 class FAQExtractor(scrapy.Spider):
 	name = 'FAQExtractor'
 	start_urls = [
-		'https://www.magazineluiza.com.br/portaldalu/'
+		'INSERT HERE THE URL'
 	]
 
 	def parse(self, response):

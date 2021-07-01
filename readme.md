@@ -1,5 +1,5 @@
-# Extraction - Portal da lu
-Content extraction from Portal da Lu, which comments on some products. The data collected can be used for, e.g., modeling QnA.
+# Extraction - FAQs from Blog
+Content extraction from a blog, which comments on some products. The data collected can be used for, e.g., modeling QnA.
 
 ## Installation
 [Install Python](https://www.python.org/downloads/)
